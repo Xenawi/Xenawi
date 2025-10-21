@@ -2,27 +2,27 @@
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
 
-> Passionate Backend Developer | Django Enthusiast | Python Hacker
+> Passionate Backend Developer | Django Enthusiast | Python Coder  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) 
-![Django](https://img.shields.io/badge/Django-v4.2-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-v4.2-green?logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Basics-black?logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blueviolet?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-purple?logo=bootstrap&logoColor=white)
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Currently working on Django web apps & automation tools  
-- 🎯 Learning Ethical Hacking and Network Security  
-- 📚 Exploring AI for study assistance and productivity tools  
-- ⚡ Fun fact: I love making my own Python tools and bots  
+- 💻 Backend developer focused on Python & Django  
+- 🖥 Comfortable with Linux basics and web development (HTML, CSS, Bootstrap)  
+- 🎯 Learning new tools, automation, and ethical hacking  
+- ⚡ Fun fact: I love building my own Python tools and mini projects  
 
 ---
 
@@ -38,16 +38,16 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| Banking App | Demo mobile banking app built with Django | [Link](#) |
-| RAT Tool | Python-based remote access tool | [Link](#) |
-| Study AI | Local AI for PDFs & study help | [Link](#) |
+| Django Banking App | Demo mobile banking app with registration, login, and payment simulation | [Link](#) |
+| Python RAT Tool | Python-based remote access tool for learning purposes | [Link](#) |
+| Study AI Tool | Local AI assistant for PDFs & study help | [Link](#) |
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/username) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/username)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
