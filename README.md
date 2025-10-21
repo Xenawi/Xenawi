@@ -24,6 +24,10 @@ I specialize in turning complex problems into clean, efficient code using 🐍 P
 
 <!-- Social Badges & Status (Replace links) -->
 
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
 </div>
 
 🛠️ Tech Stack & Tools
@@ -57,7 +61,7 @@ style="margin-right: 15px;"
 <!-- 2. Most Used Languages Card -->
 
 <a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26langs_count%3D6%26theme%3Dradical%26hide_border%3Dfalse%26hide%3DJupyter%2520Notebook"
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26langs_count%3D6%26theme%3Dradical%26hide_border%3Dfalse%26hide%3DJupyter%252520Notebook"
 alt="Top Languages"
 width="48%"
 />
