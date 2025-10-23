@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xenawi
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQEbpamDSyWayQ/profile-displaybackgroundimage-shrink_350_1400/B4EZoGKrrmK0AY-/0/1761040057893?e=1762992000&v=beta&t=kNXosLsZGY4OY59ByXfgyTV_3u_khkhPalUb_CGUYt4)
 
 > Passionate Backend Developer | Django Enthusiast | Python Coder  
 
